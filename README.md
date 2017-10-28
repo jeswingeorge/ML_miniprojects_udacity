@@ -1,7 +1,7 @@
 # ML_miniprojects_udacity
 Miniprojects done as part of Data Analyst Nanodegree udacity course.
 ***
-## 1st miniproject : Enron email dataset  
+## 1st miniproject : Classification of Email dataset of 2 persons  
 
 Use ML skills to building an algorithm to identify Enron Employees who
 may have committed fraud based on the public Enron financial and email dataset.  
